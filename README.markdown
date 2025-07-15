@@ -91,8 +91,7 @@ The architecture is designed to ensure **security**, **scalability**, and **effi
 
 **Screenshot**:
 - **VPC Resource Maps**: Visualizes the VPC structure, subnets, and route tables.  
-  ![VPC Resource Map](screenshots/vpc-resource-maps.png)
-
+  ![VPC Resource Map]
 ---
 
 ### 2. EC2 Instance Deployment
@@ -114,7 +113,7 @@ The architecture is designed to ensure **security**, **scalability**, and **effi
 
 **Screenshot**:
 - **Instance Summary**: Shows instance details, including IDs, IPs, and subnet assignments.  
-  ![Instance Summary](screenshots/instance-summary.png)
+  
 
 ---
 
@@ -135,7 +134,7 @@ The architecture is designed to ensure **security**, **scalability**, and **effi
 
 **Screenshot**:
 - **Security Group Rules**: Displays rules for both instances.  
-  ![Security Groups](screenshots/security-groups.png)
+  
 
 ---
 
@@ -220,20 +219,19 @@ Cloud-PRT-June-2025/
 The following screenshots provide visual evidence of the infrastructure setup:
 
 1. **VPC Resource Maps**  
-   ![VPC Resource Map](screenshots/vpc-resource-maps.png)
+   ![VPC Resource Map]
 2. **Instance Summary**  
-   ![Instance Summary](screenshots/instance-summary.png)
+   ![Instance Summary]
 3. **VPC Peering Connection**  
-   ![VPC Peering](screenshots/vpc-peering.png)
+   ![VPC Peering]
 4. **VPC Endpoint Configuration**  
-   ![VPC Endpoint](screenshots/vpc-endpoint.png)
+   ![VPC Endpoint]
 5. **App-Instance Communication**  
-   ![Communication Test](screenshots/communication-test.png)
+   ![Communication Test]
 6. **S3 Access from Data-Instance**  
-   ![S3 Access](screenshots/s3-access.png)
+   ![S3 Access]
 7. **Security Group Rules**  
-   ![Security Groups](screenshots/security-groups.png)
-
+   ![Security Groups]
 ---
 
 ## 📋 How to Replicate
@@ -259,9 +257,9 @@ The following screenshots provide visual evidence of the infrastructure setup:
 
 ## 📬 Contact
 For inquiries or collaboration opportunities, reach out via:  
-- **Email**: [Your Email]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **GitHub**: [Your GitHub Profile]
+- **Email**: ayukeshava@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/channakeshava-b-l-94552a324  
+- **GitHub**: https://github.com/ayukeshava1
 
 ---
 
